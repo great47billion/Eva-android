@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eva</string>
+    <string name="search">Search&#8230;</string>
+    <string name="get_phone_title">Please select your country and enter your phone number</string>
+    <string name="new_event">New Events</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="settings">Settings</string>
+</resources>
